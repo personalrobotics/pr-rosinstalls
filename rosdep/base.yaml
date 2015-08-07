@@ -12,4 +12,5 @@ libopenthreads:
 python-hashlib:
   ubuntu: [hashlib]
 python-trollius:
-  ubuntu: [python-trollius]
+  ubuntu:
+    pip: [trollius]
