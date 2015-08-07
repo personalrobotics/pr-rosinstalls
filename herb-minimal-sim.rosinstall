@@ -5,4 +5,5 @@
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother'}
 - git: {local-name: or_trajopt, uri: 'https://github.com/personalrobotics/or_trajopt'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf'}
+- git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl'}
 - git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps'}
