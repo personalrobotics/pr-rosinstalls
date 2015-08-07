@@ -4,6 +4,7 @@
 - git: {local-name: openrave_catkin, uri: 'https://github.com/personalrobotics/openrave_catkin'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother'}
 - git: {local-name: or_trajopt, uri: 'https://github.com/personalrobotics/or_trajopt'}
+- git: {local-name: or_cdchomp, uri: 'https://github.com/personalrobotics/or_cdchomp'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf'}
 - git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl'}
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl'}
