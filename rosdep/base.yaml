@@ -1,16 +1,11 @@
 ---
 liblapacke:
-  ubuntu:
-    apt: [liblapacke-dev]
+  ubuntu: [liblapacke-dev]
 newmat:
-  ubuntu:
-    apt: [libnewmat10-dev]
+  ubuntu: [libnewmat10-dev]
 openrave:
-  ubuntu:
-    apt: [pr-openrave]
+  ubuntu: [pr-openrave]
 python-hashlib:
-  ubuntu:
-    pip: [hashlib]
+  ubuntu: [hashlib]
 python-trollius:
-  ubuntu:
-    apt: [python-trollius]
+  ubuntu: [python-trollius]
