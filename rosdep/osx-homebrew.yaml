@@ -1,4 +1,7 @@
 ---
+ipython:
+  osx:
+    pip: [ipython]
 libblas-dev:
   osx: []
 ncurses:
@@ -9,6 +12,9 @@ python-hashlib:
 python-rospkg:
   osx:
     pip: [rospkg]
+python-simplejson:
+  osx:
+    pip: [simplejson]
 python-termcolor:
   osx:
     pip: [termcolor]

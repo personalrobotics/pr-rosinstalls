@@ -1,19 +1,16 @@
 ---
-ipython:
-  osx:
-    pip: [ipython]
 liblapacke:
   ubuntu:
     apt: [liblapacke-dev]
 newmat:
   ubuntu:
     apt: [libnewmat10-dev]
+openrave:
+  ubuntu:
+    apt: [pr-openrave]
 python-hashlib:
   ubuntu:
     pip: [hashlib]
-python-simplejson:
-  osx:
-    pip: [simplejson]
 python-trollius:
   ubuntu:
     apt: [python-trollius]
