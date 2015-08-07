@@ -5,7 +5,7 @@ newmat:
   ubuntu: [libnewmat10-dev]
 openrave:
   ubuntu: [pr-openrave]
-openthreads:
+libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-hashlib:
   ubuntu: [hashlib]
