@@ -5,6 +5,8 @@ newmat:
   ubuntu: [libnewmat10-dev]
 openrave:
   ubuntu: [pr-openrave]
+openthreads:
+  ubuntu: [libopenthreads-dev]
 python-hashlib:
   ubuntu: [hashlib]
 python-trollius:
