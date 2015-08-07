@@ -1,0 +1,19 @@
+---
+ipython:
+  osx:
+    pip: [ipython]
+liblapacke:
+  ubuntu:
+    apt: [liblapacke-dev]
+newmat:
+  ubuntu:
+    apt: [libnewmat10-dev]
+python-hashlib:
+  ubuntu:
+    pip: [hashlib]
+python-simplejson:
+  osx:
+    pip: [simplejson]
+python-trollius:
+  ubuntu:
+    apt: [python-trollius]

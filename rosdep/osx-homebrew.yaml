@@ -1,0 +1,18 @@
+---
+libblas-dev:
+  osx: []
+ncurses:
+  osx: []
+python-hashlib:
+  osx:
+    pip: [hashlib]
+python-rospkg:
+  osx:
+    pip: [rospkg]
+python-termcolor:
+  osx:
+    pip: [termcolor]
+python-trollius:
+  osx:
+    pip: [trollius]
+# liblapacke and newmat are not available via Homebrew
