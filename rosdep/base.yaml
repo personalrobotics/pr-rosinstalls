@@ -1,6 +1,8 @@
 ---
 liblapacke:
   ubuntu: [liblapacke-dev]
+mpfi:
+  ubuntu: [libmpfi-dev]
 newmat:
   ubuntu: [libnewmat10-dev]
 openrave:
