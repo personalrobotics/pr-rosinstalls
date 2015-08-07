@@ -4,3 +4,4 @@
 - git: {local-name: owd_ortraj, uri: 'https://github.com/personalrobotics/owd_ortraj.git'}
 - git: {local-name: pr_joy, uri: 'https://github.com/personalrobotics/pr_joy.git'}
 - git: {local-name: segway_rmp, uri: 'https://github.com/personalrobotics/segway_rmp.git'}
+- git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
