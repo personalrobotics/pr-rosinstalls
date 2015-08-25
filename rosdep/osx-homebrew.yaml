@@ -41,7 +41,7 @@ openscenegraph:
     homebrew: [openscenegraph]
 openthreads:
   osx:
-    homebrew: [openthreads]
+    homebrew: [openscenegraph]
 qt4-dev-tools:
   osx:
     homebrew: [qt]
