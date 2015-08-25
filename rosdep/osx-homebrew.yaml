@@ -27,6 +27,9 @@ python-rospkg:
 python-simplejson:
   osx:
     pip: [simplejson]
+python-sympy:
+  osx:
+    pip: [sympy]
 python-termcolor:
   osx:
     pip: [termcolor]
