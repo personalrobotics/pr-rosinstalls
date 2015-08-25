@@ -4,8 +4,20 @@ ipython:
     pip: [ipython]
 libblas-dev:
   osx: []
+libcoin60-dev:
+  osx:
+    homebrew: [coin] 
+libsoqt4-dev:
+  osx:
+    homebrew: [coin]
 ncurses:
   osx: []
+opende:
+  osx:
+    homebrew: [ode]
+mpfi:
+  osx:
+    homebrew: [mpfi]
 python-hashlib:
   osx:
     pip: [hashlib]
@@ -21,4 +33,19 @@ python-termcolor:
 python-trollius:
   osx:
     pip: [trollius]
+openscenegraph:
+  osx:
+    homebrew: [openscenegraph]
+openthreads:
+  osx:
+    homebrew: [openthreads]
+qt4-dev-tools:
+  osx:
+    homebrew: [qt]
+libqt4-dev:
+  osx:
+    homebrew: [qt]
+libqt4-opengl-dev:
+  osx:
+    homebrew: [qt]
 # liblapacke and newmat are not available via Homebrew
