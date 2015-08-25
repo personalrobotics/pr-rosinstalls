@@ -42,7 +42,13 @@ openthreads:
 qt4-dev-tools:
   osx:
     homebrew: [qt]
+libqt4:
+  osx:
+    homebrew: [qt]
 libqt4-dev:
+  osx:
+    homebrew: [qt]
+libqt4-opengl:
   osx:
     homebrew: [qt]
 libqt4-opengl-dev:
