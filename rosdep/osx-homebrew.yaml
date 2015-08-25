@@ -10,6 +10,8 @@ libcoin60-dev:
 libsoqt4-dev:
   osx:
     homebrew: [coin]
+g++-multilib:
+  osx: []
 ncurses:
   osx: []
 opende:
