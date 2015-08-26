@@ -1,4 +1,7 @@
 ---
+coreutils:
+  osx:
+    homebrew: [coreutils]
 ipython:
   osx:
     pip: [ipython]
