@@ -14,5 +14,3 @@ python-hashlib:
 python-trollius:
   ubuntu:
     pip: [trollius]
-openrave:
-  ubuntu: [pr-openrave]
