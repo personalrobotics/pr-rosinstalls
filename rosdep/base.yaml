@@ -1,6 +1,8 @@
 ---
-box2d-dev:
-  ubuntu: [box2d] # Custom build of Box2D 2.3 as a shared library.
+box2d-dev: # Custom build of Box2D 2.3 as a shared library.
+  ubuntu: [box2d]
+debsums: # Required by NASA packages.
+  ubuntu: [debsums]
 liblapacke:
   ubuntu: [liblapacke-dev]
 mpfi:
@@ -13,10 +15,10 @@ libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-hashlib:
   ubuntu: [hashlib]
-python-protobuf:
+python-protobuf: # Required by NASA packages.
   ubuntu: [python-protobuf]
 python-trollius:
   ubuntu:
     pip: [trollius]
-zeromq:
-  ubuntu: [libzmq-dev] # Required by some NASA packages.
+zeromq: # Required by NASA packages.
+  ubuntu: [libzmq-dev]
