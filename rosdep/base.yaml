@@ -1,5 +1,5 @@
 ---
-box2d-dev: # Custom build of Box2D 2.3 as a shared library.
+box2d-dev: # Override; the default package installs a static lib.
   ubuntu: [box2d]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
@@ -9,6 +9,8 @@ mpfi:
   ubuntu: [libmpfi-dev]
 newmat:
   ubuntu: [libnewmat10-dev]
+nlopt: # Override; ros-indigo-nlopt is too old for DART.
+  ubuntu: [libnlopt-dev]
 openrave:
   ubuntu: [pr-openrave]
 libopenthreads:
