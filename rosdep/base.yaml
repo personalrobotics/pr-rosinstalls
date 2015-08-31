@@ -13,6 +13,10 @@ libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-hashlib:
   ubuntu: [hashlib]
+python-protobuf
+  ubuntu: [python-protobuf] # Required by some NASA packages.
 python-trollius:
   ubuntu:
     pip: [trollius]
+zeromq:
+  ubuntu: [libzmq-dev] # Required by some NASA packages.
