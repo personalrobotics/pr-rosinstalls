@@ -1,4 +1,6 @@
 ---
+box2d-dev:
+  ubuntu: [box2d] # Custom build of Box2D 2.3 as a shared library.
 liblapacke:
   ubuntu: [liblapacke-dev]
 mpfi:
