@@ -13,6 +13,8 @@ libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-hashlib:
   ubuntu: [hashlib]
+python-protobuf:
+  ubuntu: [python-protobuf]
 python-trollius:
   ubuntu:
     pip: [trollius]
