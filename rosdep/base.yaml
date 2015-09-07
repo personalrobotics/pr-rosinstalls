@@ -15,8 +15,12 @@ openrave:
   ubuntu: [pr-openrave]
 libopenthreads:
   ubuntu: [libopenthreads-dev]
+python-enum: # Override; python-enum is too old for or_trajopt.
+  ubuntu:
+    pip: [enum34]
 python-hashlib:
-  pip: [hashlib]
+  ubuntu:
+    pip: [hashlib]
 python-protobuf: # Required by NASA packages.
   ubuntu: [python-protobuf]
 python-trollius:
