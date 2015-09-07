@@ -16,7 +16,7 @@ openrave:
 libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-hashlib:
-  ubuntu: [hashlib]
+  pip: [hashlib]
 python-protobuf: # Required by NASA packages.
   ubuntu: [python-protobuf]
 python-trollius:
