@@ -26,5 +26,7 @@ python-protobuf: # Required by NASA packages.
 python-trollius:
   ubuntu:
     pip: [trollius]
+sbpl: # Workaround because there is no rosdep key defined for SBPL.
+  ubuntu: [ros-indigo-sbpl]
 zeromq: # Required by NASA packages.
   ubuntu: [libzmq-dev]
