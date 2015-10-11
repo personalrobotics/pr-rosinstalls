@@ -15,6 +15,9 @@ openrave:
   ubuntu: [pr-openrave]
 libopenthreads:
   ubuntu: [libopenthreads-dev]
+python-descartes:
+  ubuntu:
+    pip: [descartes]
 python-enum: # Override; python-enum is too old for or_trajopt.
   ubuntu:
     pip: [enum34]
