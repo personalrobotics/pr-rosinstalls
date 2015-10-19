@@ -9,5 +9,5 @@
 - git: {local-name: pr-ordata, uri: 'git@github.com:personalrobotics/pr-ordata.git'}
 - git: {local-name: pr_ros_controllers, uri: 'git@github.com:personalrobotics/pr_ros_controllers.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'git@github.com:personalrobotics/or_parabolicsmoother.git'}
-- git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git', version: 0.2.0}
-- git: {local-name: libkindrv, uri: 'https://github.com/personalrobotics/libkindrv.git', version: 0.1.2}
+- git: {local-name: mico_hardware, uri: 'git@github.com:personalrobotics/mico_hardware.git'}
+- git: {local-name: libkindrv, uri: 'git@github.com:personalrobotics/libkindrv.git'}
