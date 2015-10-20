@@ -1,0 +1,47 @@
+---
+repositories:
+  herbpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/herbpy.git
+  herb_description:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/herb_description.git
+  openrave_catkin:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/openrave_catkin.git
+  or_parabolicsmoother:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_parabolicsmoother.git
+  or_trajopt:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_trajopt.git
+  or_cdchomp:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_cdchomp.git
+  or_urdf:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_urdf.git
+  or_rviz:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_rviz.git
+  or_ompl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_ompl.git
+  or_sbpl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_sbpl.git
+  comps:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/comps.git
+      packages: [cbirrt2, generalik, manipulation2]
