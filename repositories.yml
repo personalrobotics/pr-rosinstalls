@@ -1,5 +1,9 @@
 ---
 repositories:
+  prpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/prpy.git
   herbpy:
     source:
       type: git
