@@ -3,6 +3,8 @@ box2d-dev: # Override; the default package installs a static lib.
   ubuntu: [box2d]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
+libconfig++: # Required by libbarrett
+  ubuntu: [libconfig++-dev]
 liblapacke:
   ubuntu: [liblapacke-dev]
 mpfi:
