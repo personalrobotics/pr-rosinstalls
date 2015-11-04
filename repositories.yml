@@ -49,3 +49,7 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/comps.git
       packages: [cbirrt2, generalik, manipulation2]
+  pr_ordata:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr-ordata.git
