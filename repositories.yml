@@ -53,6 +53,14 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/pr-ordata.git
+  boost_numpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy.git
+  boost_numpy_eigen:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
   kenv:
     source:
       type: git
