@@ -57,6 +57,7 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/kenv.git
+      version: features/push_planner_updates
       packages: [ gazebo_quasistatic_plugin, gz_kenv, kenv, or_kenv, polygonal_kenv, quasistatic_pushing ]
   randomized_rearrangement_planning:
     source:
