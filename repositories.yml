@@ -53,3 +53,13 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/pr-ordata.git
+  kenv:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/kenv.git
+      packages: [ gazebo_quasistatic_plugin, gz_kenv, kenv, or_kenv, polygonal_kenv, quasistatic_pushing ]
+  randomized_rearrangement_planning:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
+      packages: [ belief_push_planner, box2d_kenv_pushing, box2d_pushing, krex_planner, ompl_planners, openrave_examples, or_pushing, push_plan_selector, push_planner, push_planner_benchmarks ]
