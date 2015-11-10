@@ -36,3 +36,6 @@ zeromq: # Required by NASA packages.
 python-palettable:
   ubuntu:
     pip: [palettable]
+python-scikit-learn:
+  ubuntu:
+    pip: [scikit-learn]
