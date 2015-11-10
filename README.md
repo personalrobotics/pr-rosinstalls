@@ -36,10 +36,10 @@ If you do not have you keys setup please see [GitHub's how-to](https://help.gith
 or ask your system administrator.
 ### Add External `*.rosinstall` Files to Your Project
 
-To use the files in this repo, execute the following after running `wstool init` in your workspace src folder:
+To use the rosinstall files, check this repository out (e.g. to `~/pr-rosinstalls`), then execute the following after running `wstool init` in your workspace src folder:
 ```
 # add all herbpy repositories to your .rosinstall without duplicates
-wstool merge ~/pr-rosinstalls/herbpy.rosinstall
+wstool merge ~/pr-rosinstalls/herb-minimal-sim.rosinstall
 wstool up # update/clone your .rosinstall repositories
 ```
 
