@@ -35,5 +35,4 @@ zeromq: # Required by NASA packages.
   ubuntu: [libzmq-dev]
 python-palettable:
   ubuntu:
-    pip: 
-      packages: [palettable]
+    pip: [palettable]
