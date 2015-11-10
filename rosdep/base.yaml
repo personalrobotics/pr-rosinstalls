@@ -33,6 +33,6 @@ python-trollius:
     pip: [trollius]
 zeromq: # Required by NASA packages.
   ubuntu: [libzmq-dev]
-python-palettable: # Override; python-enum is too old for or_trajopt.
+python-palettable:
   ubuntu:
     pip: [palettable]
