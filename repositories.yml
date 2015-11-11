@@ -1,0 +1,74 @@
+---
+repositories:
+  prpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/prpy.git
+  herbpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/herbpy.git
+  herb_description:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/herb_description.git
+  openrave_catkin:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/openrave_catkin.git
+  or_parabolicsmoother:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_parabolicsmoother.git
+  or_trajopt:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_trajopt.git
+  or_cdchomp:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_cdchomp.git
+  or_urdf:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_urdf.git
+  or_rviz:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_rviz.git
+  or_ompl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_ompl.git
+  or_sbpl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_sbpl.git
+  comps:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/comps.git
+      packages: [cbirrt2, generalik, manipulation2]
+  pr_ordata:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr-ordata.git
+  boost_numpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy.git
+  boost_numpy_eigen:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
+  kenv:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/kenv.git
+      version: features/push_planner_updates
+      packages: [ gazebo_quasistatic_plugin, gz_kenv, kenv, or_kenv, polygonal_kenv, quasistatic_pushing ]
+  randomized_rearrangement_planning:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
+      packages: [ belief_push_planner, krex_planner, ompl_planners, openrave_examples, or_pushing, push_plan_selector, push_planner, push_planner_benchmarks ]
