@@ -4,7 +4,10 @@ language: generic
 cache:
 - apt
 env:
+- ROSINSTALL_FILE=ada.rosinstall
+- ROSINSTALL_FILE=ada-sim.rosinstall
 - ROSINSTALL_FILE=herb-minimal-sim.rosinstall
+- ROSINSTALL_FILE=herb-minimal-remote-op.rosinstall
 before_install:
 - mkdir -p "${HOME}/workspace/src"
 - cd "${HOME}/workspace"

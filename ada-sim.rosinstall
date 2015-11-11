@@ -6,6 +6,6 @@
 - git: {local-name: ada, uri: 'https://github.com/personalrobotics/ada.git'}
 - git: {local-name: or_nlopt_ik, uri: 'https://github.com/personalrobotics/or_nlopt_ik.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf.git'}
-- git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
+- git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}

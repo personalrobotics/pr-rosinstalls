@@ -15,3 +15,4 @@
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl.git'}
 - git: {local-name: kinbody_detector, uri: 'https://github.com/personalrobotics/kinbody_detector.git'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
+- git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata'}
