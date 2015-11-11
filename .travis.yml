@@ -10,7 +10,7 @@ before_install:
 - cd "${HOME}/workspace"
 - git clone https://github.com/personalrobotics/pr-cleanroom.git scripts
 - ./scripts/internal-setup.sh
-- wstool merge -yt src "${TRAVIS_BUILD_DIR}/${ROSINSTALL_FILE}"
+- wstool init src "${TRAVIS_BUILD_DIR}/${ROSINSTALL_FILE}"
 script:
 - ./scripts/internal-build.sh
 - travis_wait ./scripts/internal-test.sh
