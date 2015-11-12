@@ -16,3 +16,4 @@
 - git: {local-name: kinbody_detector, uri: 'https://github.com/personalrobotics/kinbody_detector.git'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
 - git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata'}
+- git: {local-name: randomized_rearrangement_planning, uri: 'https://github.com/personalrobotics/randomized_rearrangement_planning'}

@@ -11,3 +11,4 @@
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl'}
 - git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata'}
 - git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps'}
+- git: {local-name: randomized_rearrangement_planning, uri: 'https://github.com/personalrobotics/randomized_rearrangement_planning'}
