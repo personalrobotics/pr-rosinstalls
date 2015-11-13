@@ -16,6 +16,6 @@ before_install:
 - wstool init src "${TRAVIS_BUILD_DIR}/${ROSINSTALL_FILE}"
 script:
 - ./scripts/internal-build.sh
-- travis_wait ./scripts/internal-test.sh
+- travis_wait 60 ./scripts/internal-test.sh
 after_script:
 - ./scripts/view-all-results.sh test_results
