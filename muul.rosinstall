@@ -1,6 +1,7 @@
+- git: {local-name: appl, uri: 'https://github.com/personalrobotics/appl.git', version: master}
 - git: {local-name: dart, uri: 'https://github.com/mkoval/dart.git', version: master}
 - git: {local-name: dart_rviz, uri: 'https://github.com/personalrobotics/dart_rviz.git', version: master}
-- git: {local-name: despot, uri: 'https://github.com/personalrobotics/despot.git', version: master}
+- git: {local-name: despot, uri: 'https://github.com/personalrobotics/despot.git', version: cmake}
 - git: {local-name: herb_description, uri: 'https://github.com/personalrobotics/herb_description.git', version: master}
 - git: {local-name: kenv, uri: 'https://github.com/personalrobotics/kenv.git', version: feature/indigo}
 - git: {local-name: muul, uri: 'https://github.com/personalrobotics/muul.git', version: master}
