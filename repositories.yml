@@ -16,6 +16,10 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/openrave_catkin.git
+  or_fcl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_fcl.git
   or_parabolicsmoother:
     source:
       type: git
