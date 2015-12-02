@@ -15,5 +15,4 @@
 - git: {local-name: owd, uri: 'https://github.com/personalrobotics/owd.git'}
 - git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata'}
 - git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy.git'}
-- git: {local-name: randomized_rearrangement_planning, uri: 'https://github.com/personalrobotics/randomized_rearrangement_planning'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
