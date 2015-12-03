@@ -4,6 +4,58 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/prpy.git
+  pr_ordata:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr-ordata.git
+
+  # OpenRAVE plugin repositories:
+  comps:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/comps.git
+      packages:
+      - cbirrt2
+      - generalik
+      - manipulation2
+  openrave_catkin:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/openrave_catkin.git
+  or_cdchomp:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_cdchomp.git
+  or_fcl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_fcl.git
+  or_ompl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_ompl.git
+  or_parabolicsmoother:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_parabolicsmoother.git
+  or_rviz:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_rviz.git
+  or_sbpl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_sbpl.git
+  or_trajopt:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_trajopt.git
+  or_urdf:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/or_urdf.git
+
+  # HERB repositories:
   herbpy:
     source:
       type: git
@@ -12,51 +64,6 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/herb_description.git
-  openrave_catkin:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/openrave_catkin.git
-  or_fcl:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_fcl.git
-  or_parabolicsmoother:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_parabolicsmoother.git
-  or_trajopt:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_trajopt.git
-  or_cdchomp:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_cdchomp.git
-  or_urdf:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_urdf.git
-  or_rviz:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_rviz.git
-  or_ompl:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_ompl.git
-  or_sbpl:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/or_sbpl.git
-  comps:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/comps.git
-      packages: [cbirrt2, generalik, manipulation2]
-  pr_ordata:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/pr-ordata.git
   boost_numpy:
     source:
       type: git
@@ -65,14 +72,57 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
-  kenv:
+
+  # DART repositories:
+  dart:
     source:
       type: git
-      url: https://github.com/personalrobotics/kenv.git
-      version: features/push_planner_updates
-      packages: [ gazebo_quasistatic_plugin, gz_kenv, kenv, or_kenv, polygonal_kenv, quasistatic_pushing ]
+      url: https://github.com/mkoval/dart.git
+  dart_rviz:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/dart_rviz.git
+  r3:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/r3.git
+
+  # @jeking04's research repositories:
   randomized_rearrangement_planning:
     source:
       type: git
       url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
-      packages: [ belief_push_planner, krex_planner, ompl_planners, openrave_examples, or_pushing, push_plan_selector, push_planner, push_planner_benchmarks ]
+      packages:
+      - belief_push_planner
+      - krex_planner
+      - ompl_planners
+      - openrave_examples
+      - or_pushing
+      - push_plan_selector
+      - push_planner
+      - push_planner_benchmarks
+
+  # @mkoval's research repositories:
+  appl:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/appl.git
+  despot:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/despot.git
+  kenv:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/kenv.git
+      packages:
+      - gazebo_quasistatic_plugin
+      - gz_kenv
+      - kenv
+      - or_kenv
+      - polygonal_kenv
+      - quasistatic_pushing
+  muul:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/muul.git
