@@ -26,7 +26,6 @@
 - git:
     local-name: pr_ordata
     uri: https://github.com/personalrobotics/pr-ordata.git
-    version: feature/urdf
 - git:
     local-name: r3
     uri: https://github.com/personalrobotics/r3.git
