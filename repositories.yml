@@ -116,6 +116,7 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/kenv.git
       packages:
+      - box2d_kenv
       - gazebo_quasistatic_plugin
       - gz_kenv
       - kenv
