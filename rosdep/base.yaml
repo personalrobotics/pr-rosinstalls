@@ -17,6 +17,9 @@ openrave:
   ubuntu: [pr-openrave]
 libopenthreads:
   ubuntu: [libopenthreads-dev]
+python-boto3:
+  ubuntu:
+    pip: [boto3]
 python-descartes:
   ubuntu:
     pip: [descartes]
