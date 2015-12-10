@@ -101,6 +101,7 @@ repositories:
       - push_plan_selector
       - push_planner
       - push_planner_benchmarks
+      - search_push_planner
 
   # @mkoval's research repositories:
   appl:
