@@ -77,15 +77,14 @@ repositories:
   dart:
     source:
       type: git
-      url: https://github.com/mkoval/dart.git
-  dart_rviz:
+      url: https://github.com/dartsim/dart.git
+  aikido:
     source:
       type: git
-      url: https://github.com/personalrobotics/dart_rviz.git
-  r3:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/r3.git
+      url: https://github.com/personalrobotics/aikido.git
+      packages:
+      - aikido
+      - aikido_rviz
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
