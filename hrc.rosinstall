@@ -7,7 +7,6 @@
 - git:
     local-name: herbpy
     uri: https://github.com/personalrobotics/herbpy.git
-    version: feature/skeletupdate
 - git:
     local-name: hindsight_assistance_policy
     uri: https://github.com/personalrobotics/hindsight_assistance_policy.git
@@ -18,7 +17,6 @@
 - git:
     local-name: humanpy
     uri: https://github.com/personalrobotics/humanpy.git
-    version: feature/humanpy
 - git:
     local-name: k2_client
     uri: https://github.com/personalrobotics/k2_client.git
@@ -68,7 +66,6 @@
 - git:
     local-name: pr-ordata
     uri: https://github.com/personalrobotics/pr-ordata.git
-    version: stefania/objcolor
 - git:
     local-name: prpy
     uri: https://github.com/personalrobotics/prpy.git
