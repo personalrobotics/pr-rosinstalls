@@ -78,7 +78,8 @@ repositories:
     source:
       # TODO: We should switch to a release of the main DART repository when possible.
       type: git
-      url: https://github.com/mkoval/dart.git
+      url: https://github.com/personalrobotics/dart.git
+      version: dart-prl-0.1
   aikido:
     source:
       type: git
