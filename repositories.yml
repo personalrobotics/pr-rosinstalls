@@ -4,6 +4,12 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/prpy.git
+  ros_control_client:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/ros_control_client.git
+      packages:
+      - ros_control_client_py
   pr_ordata:
     source:
       type: git
