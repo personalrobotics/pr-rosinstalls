@@ -1,0 +1,12 @@
+- git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps'}
+- git: {local-name: herb_description, uri: 'https://github.com/personalrobotics/herb_description', version: owd-devel}
+- git: {local-name: herbpy, uri: 'https://github.com/personalrobotics/herbpy.git', version: owd-devel}
+- git: {local-name: openrave_catkin, uri: 'https://github.com/personalrobotics/openrave_catkin'}
+- git: {local-name: or_cdchomp, uri: 'https://github.com/personalrobotics/or_cdchomp'}
+- git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl'}
+- git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother'}
+- git: {local-name: or_rviz, uri: 'https://github.com/personalrobotics/or_rviz'}
+- git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl'}
+- git: {local-name: or_trajopt, uri: 'https://github.com/personalrobotics/or_trajopt'}
+- git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf'}
+- git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy', version: owd-devel}
