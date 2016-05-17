@@ -18,5 +18,5 @@
 - git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy.git'}
 - git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git', version: 0.10.0}
-# - git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git', version: 0.10.0} TODO
+- git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git', version: 0.10.0}
 - git: {local-name: ros_control_client, uri: 'https://github.com/personalrobotics/ros_control_client.git'}
