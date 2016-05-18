@@ -1,2 +1,1 @@
 - git: {local-name: iai_kinect2, uri: 'https://github.com/code-iai/iai_kinect2.git'}
-- git: {local-name: openni2_tracker, uri: 'https://github.com/personalrobotics/openni2-tracker.git'}

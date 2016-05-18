@@ -1,7 +1,7 @@
-- git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git'}
-- git: {local-name: barrett_ros_control, uri: 'https://github.com/personalrobotics/barrett_ros_control.git'}
+- git: {local-name: or_owd_controller, uri: 'https://github.com/personalrobotics/or_owd_controller.git'}
+- git: {local-name: owd, uri: 'https://github.com/personalrobotics/owd.git', version: pantilt}
+- git: {local-name: owd_ortraj, uri: 'https://github.com/personalrobotics/owd_ortraj.git'}
 - git: {local-name: pr_joy, uri: 'https://github.com/personalrobotics/pr_joy.git'}
-- git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_contorllers.git'}
 - git: {local-name: segway_rmp, uri: 'https://github.com/personalrobotics/segway_rmp.git'}
 - git: {local-name: stargazer, uri: 'https://github.com/personalrobotics/stargazer.git'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
