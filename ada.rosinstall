@@ -13,3 +13,7 @@
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
 - git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git'}
 - git: {local-name: libkindrv, uri: 'https://github.com/personalrobotics/libkindrv.git'}
+- git: {local-name: dart, uri: 'https://github.com/personalrobotics/dart.git'}
+- git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git'}
+- git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git'}
+- git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git'}
