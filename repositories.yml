@@ -138,3 +138,9 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/muul.git
+
+  # Table clearing
+  table_clearing:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/table_clearing.git
