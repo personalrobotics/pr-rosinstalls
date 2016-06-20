@@ -42,6 +42,4 @@ python-palettable:
 python-scikit-learn:
   ubuntu:
     pip: [scikit-learn]
-python-scipy:
-  ubuntu:
-    pip: [scipy]
+
