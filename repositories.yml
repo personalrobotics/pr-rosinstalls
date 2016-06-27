@@ -83,13 +83,7 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
 
-  # DART repositories:
-  dart:
-    source:
-      # TODO: We should switch to a release of the main DART repository when possible.
-      type: git
-      url: https://github.com/personalrobotics/dart.git
-      version: dart-prl-0.1
+  # DART libraries:
   aikido:
     source:
       type: git
@@ -97,6 +91,7 @@ repositories:
       packages:
       - aikido
       - aikido_rviz
+      - aikido_perception
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
