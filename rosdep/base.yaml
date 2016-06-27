@@ -1,6 +1,8 @@
 ---
 box2d-dev: # Override; the default package installs a static lib.
   ubuntu: [box2d]
+dart:
+  ubuntu: [libdart6-dev]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
 libconfig++: # Required by libbarrett
