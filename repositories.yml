@@ -84,6 +84,11 @@ repositories:
       url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
 
   # DART libraries:
+  dart:
+    source:
+      type: git
+      url: https://github.com/dartsim/dart.git
+      version: release-6.0
   aikido:
     source:
       type: git
