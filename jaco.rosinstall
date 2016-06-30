@@ -3,11 +3,11 @@
 - git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy.git'}
 - git: {local-name: or_rviz, uri: 'https://github.com/personalrobotics/or_rviz.git'}
 - git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl.git'}
-- git: {local-name: ada, uri: 'https://github.com/personalrobotics/ada.git#jaco'}
+- git: {local-name: ada, uri: 'https://github.com/personalrobotics/ada.git', version: 'jaco'}
 - git: {local-name: or_trac_ik, uri: 'https://github.com/personalrobotics/or_trac_ik.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf.git'}
 - git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
-- git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git#jaco'}
+- git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git', version: 'jaco'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
