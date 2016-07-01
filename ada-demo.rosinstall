@@ -11,5 +11,5 @@
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
 - git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
-- git: {local-name: ada_meal_scenario, uri 'https://github.com/personalrobotics/ada_meal_scenario.git'}
-- git: {local-name: morsel, uri 'https://github.com/personalrobotics/morsel.git'}
+- git: {local-name: ada_meal_scenario, uri: 'https://github.com/personalrobotics/ada_meal_scenario.git'}
+- git: {local-name: morsel, uri: 'https://github.com/personalrobotics/morsel.git'}
