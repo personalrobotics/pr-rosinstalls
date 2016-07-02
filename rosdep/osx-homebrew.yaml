@@ -71,6 +71,9 @@ tinyxml2:
 cgal:
   osx:
     homebrew: [cgal]
+geos:
+  osx:
+    homebrew: [geos]
 libgeos++-dev:
   osx:
     homebrew: [geos]
