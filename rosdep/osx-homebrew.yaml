@@ -77,6 +77,3 @@ geos:
 libgeos++-dev:
   osx:
     homebrew: [geos]
-box2d:
-  osx:
-    homebrew: [box2d]
