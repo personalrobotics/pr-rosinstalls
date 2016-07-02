@@ -62,4 +62,10 @@ libqt4-opengl:
 libqt4-opengl-dev:
   osx:
     homebrew: [qt]
+sfml-dev:
+  osx:
+    homebrew: [sfml]
+tinyxml2:
+  osx:
+    homebrew: [tinyxml2]
 # liblapacke and newmat are not available via Homebrew
