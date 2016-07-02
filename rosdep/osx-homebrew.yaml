@@ -77,3 +77,6 @@ geos:
 libgeos++-dev:
   osx:
     homebrew: [geos]
+python-sqlalchemy:
+  osx:
+    pip: [sqlalchemy]
