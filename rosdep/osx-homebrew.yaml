@@ -80,6 +80,9 @@ libgeos++-dev:
 python-sqlalchemy:
   osx:
     pip: [sqlalchemy]
+python-boto3:
+  osx:
+    pip: [boto3]
 # Override the ill-fated ros/indigo tap.
 ompl:
   osx:
