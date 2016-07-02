@@ -68,4 +68,9 @@ sfml-dev:
 tinyxml2:
   osx:
     homebrew: [tinyxml2]
-# liblapacke and newmat are not available via Homebrew
+cgal:
+  osx:
+    homebrew: [cgal]
+libgeos++-dev:
+  osx:
+    homebrew: [geos]
