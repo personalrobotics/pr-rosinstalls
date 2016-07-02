@@ -84,3 +84,6 @@ python-sqlalchemy:
 ompl:
   osx:
     homebrew: [ompl]
+log4cpp:
+  osx:
+    homebrew: [log4cpp]
