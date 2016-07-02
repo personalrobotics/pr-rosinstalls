@@ -26,6 +26,8 @@ libopenthreads:
 python-boto3:
   ubuntu:
     pip: [boto3]
+  osx:
+    pip: [boto3]
 python-descartes:
   ubuntu:
     pip: [descartes]
@@ -34,18 +36,26 @@ python-descartes:
 python-enum: # Override; python-enum is too old for or_trajopt.
   ubuntu:
     pip: [enum34]
+  osx:
+    pip: [enum34]
 python-hashlib:
   ubuntu:
+    pip: [hashlib]
+  osx:
     pip: [hashlib]
 python-protobuf: # Required by NASA packages.
   ubuntu: [python-protobuf]
 python-trollius:
   ubuntu:
     pip: [trollius]
+  osx:
+    pip: [trollius]
 zeromq: # Required by NASA packages.
   ubuntu: [libzmq-dev]
 python-palettable:
   ubuntu:
+    pip: [palettable]
+  osx:
     pip: [palettable]
 python-scikit-learn:
   ubuntu:
