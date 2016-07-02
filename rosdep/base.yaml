@@ -29,6 +29,8 @@ python-boto3:
 python-descartes:
   ubuntu:
     pip: [descartes]
+  osx:
+    pip: [descartes]
 python-enum: # Override; python-enum is too old for or_trajopt.
   ubuntu:
     pip: [enum34]
