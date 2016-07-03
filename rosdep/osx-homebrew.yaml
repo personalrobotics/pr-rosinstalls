@@ -83,6 +83,9 @@ python-sqlalchemy:
 python-boto3:
   osx:
     pip: [boto3]
+libmicrohttpd:
+  osx:
+    homebrew: [libmicrohttpd]
 # Override the ill-fated ros/indigo tap.
 ompl:
   osx:
