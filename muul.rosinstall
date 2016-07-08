@@ -8,9 +8,6 @@
     local-name: herb_description
     uri: https://github.com/personalrobotics/herb_description.git
 - git:
-    local-name: dart
-    uri: https://github.com/personalrobotics/dart.git
-- git:
     local-name: aikido
     uri: https://github.com/personalrobotics/aikido.git
 - git:
