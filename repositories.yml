@@ -105,13 +105,13 @@ repositories:
       url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
       packages:
       - belief_push_planner
-      - box2d_pushing
+    #  - box2d_pushing
       - darrt_push_planner
       - krex_planner
       - ompl_planners
       - openrave_examples
       - or_pushing
-      - or_box2d_pushing
+    #  - or_box2d_pushing
       - push_plan_selector
       - push_planner
       - push_planner_benchmarks
