@@ -13,6 +13,10 @@ libconfig++: # Required by libbarrett
   ubuntu: [libconfig++-dev]
 liblapacke:
   ubuntu: [liblapacke-dev]
+glpk:
+  ubuntu: [libglpk-dev]
+  osx:
+    homebrew: [homebrew/science/glpk]
 mpfi:
   ubuntu: [libmpfi-dev]
 newmat:
