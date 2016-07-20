@@ -95,8 +95,6 @@ repositories:
       url: https://github.com/personalrobotics/aikido.git
       packages:
       - aikido
-      - aikido_rviz
-      - aikido_perception
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
