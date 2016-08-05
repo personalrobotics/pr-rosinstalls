@@ -7,6 +7,7 @@
 - git: {local-name: navigation_controller, uri: 'https://github.com/personalrobotics/navigation_controller.git'}
 - git: {local-name: openrave_catkin, uri: 'https://github.com/personalrobotics/openrave_catkin.git'}
 - git: {local-name: or_cdchomp, uri: 'https://github.com/personalrobotics/or_cdchomp.git'}
+- git: {local-name: or_fcl, uri: 'https://github.com/personalrobotics/or_fcl.git'}
 - git: {local-name: or_navigation_controller, uri: 'https://github.com/personalrobotics/or_navigation_controller.git'}
 - git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
