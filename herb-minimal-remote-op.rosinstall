@@ -13,7 +13,7 @@
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl.git'}
 - git: {local-name: or_fcl, uri: 'https://github.com/personalrobotics/or_fcl'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
-- git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
+- git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: kinbody_detector, uri: 'https://github.com/personalrobotics/kinbody_detector.git'}
 - git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git', version: 0.10.0}
 - git: {local-name: ros_control_client, uri: 'https://github.com/personalrobotics/ros_control_client.git'}
