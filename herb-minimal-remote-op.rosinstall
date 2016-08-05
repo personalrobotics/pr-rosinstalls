@@ -11,6 +11,7 @@
 - git: {local-name: or_cdchomp, uri: 'https://github.com/personalrobotics/or_cdchomp.git'}
 - git: {local-name: or_rviz, uri: 'https://github.com/personalrobotics/or_rviz.git'}
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl.git'}
+- git: {local-name: or_fcl, uri: 'https://github.com/personalrobotics/or_fcl'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
 - git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: kinbody_detector, uri: 'https://github.com/personalrobotics/kinbody_detector.git'}
