@@ -1,5 +1,5 @@
-- git: {local-name: ada_meal_scenario, uri: 'git@github.com:personalrobotics/ada_meal_scenario.git'}
-- git: {local-name: morsel, uri: 'git@github.com:personalrobotics/morsel.git'}
-- git: {local-name: ada_assistance_policy, uri: 'git@github.com:sjavdani/ada_assistance_policy.git'}
-- git: {local-name: mouse_as_joystick, uri: 'git@github.com:personalrobotics/mouse_as_joystick.git'}
-- git: {local-name: ada_teleoperation, uri: 'git@github.com:personalrobotics/ada_teleoperation.git'}
+- git: {local-name: ada_meal_scenario, uri: 'https://github.com/personalrobotics/ada_meal_scenario.git'}
+- git: {local-name: morsel, uri: 'https://github.com/personalrobotics/morsel.git'}
+- git: {local-name: ada_assistance_policy, uri: 'https://github.com/sjavdani/ada_assistance_policy.git'}
+- git: {local-name: mouse_as_joystick, uri: 'https://github.com/personalrobotics/mouse_as_joystick.git'}
+- git: {local-name: ada_teleoperation, uri: 'https://github.com/personalrobotics/ada_teleoperation.git'}
