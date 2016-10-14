@@ -1,4 +1,5 @@
 - git: {local-name: apriltags, uri: 'https://github.com/personalrobotics/apriltags.git'}
+- git: {local-name: apriltags-cpp, uri: 'https://github.com/personalrobotics/apriltags-cpp.git'}
 - git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps.git'}
 - git: {local-name: herb_description, uri: 'https://github.com/personalrobotics/herb_description.git'}
 - git: {local-name: herb_launch, uri: 'https://github.com/personalrobotics/herb_launch.git'}
