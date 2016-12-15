@@ -17,6 +17,9 @@ glpk:
   ubuntu: [libglpk-dev]
   osx:
     homebrew: [homebrew/science/glpk]
+fcl:
+  ubuntu:
+    xenial: [libfcl-dev]
 mpfi:
   ubuntu: [libmpfi-dev]
 newmat:
