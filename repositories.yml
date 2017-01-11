@@ -95,6 +95,12 @@ repositories:
       url: https://github.com/personalrobotics/aikido.git
       packages:
       - aikido
+  libherb:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/libherb.git
+      packages:
+      - libherb
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
