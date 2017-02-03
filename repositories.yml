@@ -1,5 +1,9 @@
 ---
 repositories:
+  magi:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/magi.git
   prpy:
     source:
       type: git
