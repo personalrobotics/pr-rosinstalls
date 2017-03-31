@@ -22,6 +22,10 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/kinbody_detector.git
+  tsr:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/tsr.git
 
   # OpenRAVE plugin repositories:
   comps:
