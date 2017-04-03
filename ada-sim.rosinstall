@@ -10,3 +10,4 @@
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf.git'}
 - git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr.git'}

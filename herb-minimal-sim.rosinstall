@@ -11,3 +11,4 @@
 - git: {local-name: or_ompl, uri: 'https://github.com/personalrobotics/or_ompl'}
 - git: {local-name: or_sbpl, uri: 'https://github.com/personalrobotics/or_sbpl'}
 - git: {local-name: comps, uri: 'https://github.com/personalrobotics/comps'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr.git'}
