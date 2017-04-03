@@ -13,3 +13,4 @@
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
 - git: {local-name: ada_meal_scenario, uri: 'https://github.com/personalrobotics/ada_meal_scenario.git'}
 - git: {local-name: morsel, uri: 'https://github.com/personalrobotics/morsel.git'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr.git'}

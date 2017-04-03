@@ -18,3 +18,4 @@
 - git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git', version: 0.10.0}
 - git: {local-name: ros_control_client, uri: 'https://github.com/personalrobotics/ros_control_client.git'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr.git'}

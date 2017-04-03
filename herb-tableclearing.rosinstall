@@ -22,3 +22,4 @@
 - git: {local-name: table_clearing, uri: 'https://github.com/personalrobotics/table_clearing.git'}
 - git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker.git'}
 - git: {local-name: vncc_msgs, uri: 'https://github.com/personalrobotics/vncc_msgs.git'}
+- git: {local-name: tsr, uri: 'https://github.com/personalrobotics/tsr.git'}
