@@ -3,7 +3,7 @@ box2d-dev: # Override; the default package installs a static lib.
   ubuntu: [box2d]
   osx:
     homebrew: [box2d]
-clang-format-3.8
+clang-format-3.8:
   ubuntu: [clang-format-3.8]
   osx:
     homebrew: [clang-format@3.8]
