@@ -79,23 +79,6 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/or_urdf.git
 
-  # HERB repositories:
-  herbpy:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/herbpy.git
-  herb_description:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/herb_description.git
-  boost_numpy:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/Boost.NumPy.git
-  boost_numpy_eigen:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
 
   # DART libraries:
   #dart:
