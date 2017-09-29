@@ -11,6 +11,10 @@ dart:
   ubuntu: [libdart6-all-dev]
   osx:
     homebrew: [dartsim/dart/dartsim6]
+aikido:
+  ubuntu: [libaikido0-all-dev]
+  osx:
+    homebrew: [personalrobotics/tap/aikido0]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
 libconfig++: # Required by libbarrett
