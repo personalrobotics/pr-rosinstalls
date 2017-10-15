@@ -88,6 +88,10 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/herb_description.git
+  herb3_demos:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/herb3-demos.git
   boost_numpy:
     source:
       type: git
