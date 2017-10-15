@@ -1,4 +1,6 @@
 ---
+atlas: # Required by table_clearing
+  ubuntu: [libatlas-base-dev]
 box2d-dev: # Override; the default package installs a static lib.
   ubuntu: [box2d]
   osx:
@@ -17,10 +19,16 @@ libconfig++: # Required by libbarrett
   ubuntu: [libconfig++-dev]
 liblapacke:
   ubuntu: [liblapacke-dev]
+gfortran: # Required by table_clearing
+  ubuntu: [gfortran]
 glpk:
   ubuntu: [libglpk-dev]
   osx:
     homebrew: [homebrew/science/glpk]
+libblas-dev: # Required by table_clearing
+  ubuntu: [libblas-dev]
+liblapack-dev: # Required by table_clearing
+  ubuntu: [liblapack-dev]
 mpfi:
   ubuntu: [libmpfi-dev]
 newmat:
@@ -65,6 +73,9 @@ python-palettable:
     pip: [palettable]
   osx:
     pip: [palettable]
+python-scipy: # Required by table_clearing
+  ubuntu:
+    pip: [scipy]
 python-scikit-learn:
   ubuntu:
     pip: [scikit-learn]
