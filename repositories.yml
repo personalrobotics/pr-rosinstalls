@@ -4,6 +4,8 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/magi.git
+      packages:
+        - magi
   prpy:
     source:
       type: git
@@ -13,13 +15,13 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/ros_control_client.git
       packages:
-      - ros_control_client_py
+        - ros_control_client_py
   pr_control_msgs:
     source:
       type: git
       url: https://github.com/personalrobotics/pr_control_msgs.git
       packages:
-      - pr_control_msgs
+        - pr_control_msgs
   pr_ordata:
     source:
       type: git
@@ -39,9 +41,9 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/comps.git
       packages:
-      - cbirrt2
-      - generalik
-      - manipulation2
+        - cbirrt2
+        - generalik
+        - manipulation2
   openrave_catkin:
     source:
       type: git
@@ -112,13 +114,13 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/aikido.git
       packages:
-      - aikido
+        - aikido
   libherb:
     source:
       type: git
       url: https://github.com/personalrobotics/libherb.git
       packages:
-      - libherb
+        - libherb
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
@@ -126,18 +128,18 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
       packages:
-      - belief_push_planner
+        - belief_push_planner
     #  - box2d_pushing
-      - darrt_push_planner
-      - krex_planner
-      - ompl_planners
-      - openrave_examples
-      - or_pushing
+        - darrt_push_planner
+        - krex_planner
+        - ompl_planners
+        - openrave_examples
+        - or_pushing
     #  - or_box2d_pushing
-      - push_plan_selector
-      - push_planner
+        - push_plan_selector
+        - push_planner
     #  - push_planner_benchmarks
-      - search_push_planner
+        - search_push_planner
 
   # @mkoval's research repositories:
   appl:
@@ -153,13 +155,13 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/kenv.git
       packages:
-      - box2d_kenv
-      - gazebo_quasistatic_plugin
-      - gz_kenv
-      - kenv
-      - or_kenv
-      - polygonal_kenv
-      - quasistatic_pushing
+        - box2d_kenv
+        - gazebo_quasistatic_plugin
+        - gz_kenv
+        - kenv
+        - or_kenv
+        - polygonal_kenv
+        - quasistatic_pushing
   muul:
     source:
       type: git
