@@ -26,6 +26,10 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/pr-ordata.git
+  pr_tsr:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr_tsr.git
   kinbody_detector:
     source:
       type: git
