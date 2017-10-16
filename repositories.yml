@@ -93,7 +93,7 @@ repositories:
   herb3_demos:
     source:
       type: git
-      url: https://github.com/personalrobotics/herb3-demos.git
+      url: https://github.com/personalrobotics/herb3_demos.git
   boost_numpy:
     source:
       type: git
