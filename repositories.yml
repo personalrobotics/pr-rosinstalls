@@ -3,7 +3,7 @@ repositories:
   magi:
     source:
       type: git
-      url: https://github.com/personalrobotics/magi.git
+      url: git@github.com:personalrobotics/magi.git
       packages:
         - magi
   prpy:
@@ -118,7 +118,7 @@ repositories:
   libherb:
     source:
       type: git
-      url: https://github.com/personalrobotics/libherb.git
+      url: git@github.com:personalrobotics/libherb.git
       packages:
         - libherb
 
