@@ -1,4 +1,5 @@
 # This .rosinstall file is indented to be used for projects that simulate HERB such as pantry-loading.
+# Note: pr_tsr, libherb are currently private repositories.
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git'}
 - git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
 - git: {local-name: libherb, uri: 'https://github.com/personalrobotics/libherb'}
