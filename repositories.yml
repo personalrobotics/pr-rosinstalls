@@ -22,6 +22,12 @@ repositories:
       url: https://github.com/personalrobotics/pr_control_msgs.git
       packages:
         - pr_control_msgs
+  talker:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/talker.git
+      packages:
+        - talker
   pr_ordata:
     source:
       type: git
