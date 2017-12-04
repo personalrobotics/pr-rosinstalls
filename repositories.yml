@@ -28,6 +28,12 @@ repositories:
       url: https://github.com/personalrobotics/talker.git
       packages:
         - talker
+  schunk_neck:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/schunk_neck.git
+      packages:
+        - schunk_neck
   pr_ordata:
     source:
       type: git
