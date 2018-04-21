@@ -64,8 +64,8 @@
     local-name: owd
     uri: https://github.com/personalrobotics/owd.git
 - git:
-    local-name: pr-ordata
-    uri: https://github.com/personalrobotics/pr-ordata.git
+    local-name: pr_ordata
+    uri: https://github.com/personalrobotics/pr_ordata.git
 - git:
     local-name: prpy
     uri: https://github.com/personalrobotics/prpy.git

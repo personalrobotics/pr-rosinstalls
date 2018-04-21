@@ -17,7 +17,7 @@
 - git: {local-name: or_trajopt, uri: 'https://github.com/personalrobotics/or_trajopt.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf.git'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
-- git: {local-name: pr-ordata, uri: 'https://github.com/personalrobotics/pr-ordata.git'}
+- git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr_ordata.git'}
 - git: {local-name: prpy, uri: 'https://github.com/personalrobotics/prpy.git'}
 - git: {local-name: ros_control, uri: 'https://github.com/ros-controls/ros_control.git', version: 0.10.0}
 - git: {local-name: ros_controllers, uri: 'https://github.com/ros-controls/ros_controllers.git', version: 0.10.0}
