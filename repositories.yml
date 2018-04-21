@@ -37,7 +37,7 @@ repositories:
   pr_ordata:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr-ordata.git
+      url: https://github.com/personalrobotics/pr_ordata.git
   pr_tsr:
     source:
       type: git
