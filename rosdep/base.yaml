@@ -7,7 +7,7 @@ clang-format-3.8:
   ubuntu: [clang-format-3.8]
   osx:
     homebrew: [clang-format@3.8]
-dart:
+dartsim:
   ubuntu: [libdart6-all-dev]
   osx:
     homebrew: [dartsim/dart/dartsim6]
