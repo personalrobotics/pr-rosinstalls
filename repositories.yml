@@ -106,6 +106,12 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/herb_description.git
+  libherb:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/libherb.git
+      packages:
+        - libherb
   herb3_demos:
     source:
       type: git
@@ -131,18 +137,18 @@ repositories:
       url: https://github.com/personalrobotics/aikido.git
       packages:
         - aikido
-  libherb:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/libherb.git
-      packages:
-        - libherb
+
+  # ADA repositories
   libada:
     source:
       type: git
       url: https://github.com/personalrobotics/libada.git
       packages:
         - libada
+  ada_demos:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/ada_demos.git
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
