@@ -139,6 +139,10 @@ repositories:
         - aikido
 
   # ADA repositories
+  ada_description:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/ada_description.git
   libada:
     source:
       type: git
