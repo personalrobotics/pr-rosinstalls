@@ -154,6 +154,18 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/ada_demos.git
 
+  # HEBI repositories
+  hebi_description:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/hebi_description.git
+  libhebi:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/libhebi.git
+      packages:
+        - libhebi
+
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
     source:
