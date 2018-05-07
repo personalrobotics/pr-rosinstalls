@@ -166,6 +166,18 @@ repositories:
       packages:
         - libhebi
 
+  # RACECAR repositories
+  racecar_description:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/racecar_description.git
+  libracecar:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/libracecar.git
+      packages:
+        - libracecar
+
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
     source:
