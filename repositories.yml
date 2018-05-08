@@ -165,6 +165,10 @@ repositories:
       url: https://github.com/personalrobotics/libhebi.git
       packages:
         - libhebi
+  racecar_examples:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/racecar_examples.git
 
   # RACECAR repositories
   racecar_description:
