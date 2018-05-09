@@ -22,6 +22,12 @@ repositories:
       url: https://github.com/personalrobotics/pr_control_msgs.git
       packages:
         - pr_control_msgs
+  rewd_controllers:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/rewd_controllers.git
+      packages:
+        - rewd_controllers
   talker:
     source:
       type: git
