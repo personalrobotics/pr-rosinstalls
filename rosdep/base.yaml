@@ -10,7 +10,7 @@ clang-format-3.8:
 dartsim:
   ubuntu: [libdart6-all-dev]
   osx:
-    homebrew: [dartsim/dart/dartsim6]
+    homebrew: [dartsim]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
 libconfig++: # Required by libbarrett
@@ -20,7 +20,7 @@ liblapacke:
 glpk:
   ubuntu: [libglpk-dev]
   osx:
-    homebrew: [homebrew/science/glpk]
+    homebrew: [glpk]
 mpfi:
   ubuntu: [libmpfi-dev]
 newmat:
