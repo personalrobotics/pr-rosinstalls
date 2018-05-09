@@ -97,6 +97,24 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/or_urdf.git
 
+  # AIKIDO
+  aikido:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/aikido.git
+      packages:
+        - aikido
+
+  # Python bindings:
+  boost_numpy:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy.git
+  boost_numpy_eigen:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
+
   # HERB repositories:
   herbpy:
     source:
@@ -116,27 +134,6 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/herb3_demos.git
-  boost_numpy:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/Boost.NumPy.git
-  boost_numpy_eigen:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
-
-  # DART libraries:
-  #dart:
-  #  source:
-  #    type: git
-  #    url: https://github.com/dartsim/dart.git
-  #    version: release-6.0
-  aikido:
-    source:
-      type: git
-      url: https://github.com/personalrobotics/aikido.git
-      packages:
-        - aikido
 
   # ADA repositories
   ada_description:
@@ -177,6 +174,10 @@ repositories:
       url: https://github.com/personalrobotics/libracecar.git
       packages:
         - libracecar
+  racecar_examples:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/racecar_examples.git
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
