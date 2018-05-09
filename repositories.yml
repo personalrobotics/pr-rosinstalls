@@ -16,6 +16,15 @@ repositories:
       url: https://github.com/personalrobotics/ros_control_client.git
       packages:
         - ros_control_client_py
+  pr_ros_controllers:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr_ros_controllers.git
+      packages:
+        - position_command_controller
+        - pr_hardware_interfaces
+        - pr_ros_controllers
+        - trigger_controller
   pr_control_msgs:
     source:
       type: git
