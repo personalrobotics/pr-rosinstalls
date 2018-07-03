@@ -193,6 +193,10 @@ repositories:
     source:
       type: git
       url: https://github.com/personalrobotics/racecar_examples.git
+  racecar_demos:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/racecar_demos.git
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
