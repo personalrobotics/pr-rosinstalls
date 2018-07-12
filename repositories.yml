@@ -22,9 +22,14 @@ repositories:
       url: https://github.com/personalrobotics/pr_ros_controllers.git
       packages:
         - position_command_controller
-        - pr_hardware_interfaces
         - pr_ros_controllers
         - trigger_controller
+  pr_hardware_interfaces:
+    source:
+      type: git
+      url: https://github.com/personalrobotics/pr_hardware_interfaces.git
+      packages:
+        - pr_hardware_interfaces
   pr_control_msgs:
     source:
       type: git
