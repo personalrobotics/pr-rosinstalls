@@ -5,3 +5,7 @@
 - git: {local-name: libherb, uri: 'https://github.com/personalrobotics/libherb'}
 - git: {local-name: herb_description, uri: 'https://github.com/personalrobotics/herb_description'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido'}
+- git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs'}
+- git: {local-name: schunk_neck, uri: 'https://github.com/personalrobotics/schunk_neck'}
+- git: {local-name: talker, uri: 'https://github.com/personalrobotics/talker'}
+- git: {local-name: magi, uri: 'https://github.com/personalrobotics/magi'}
