@@ -50,8 +50,8 @@
     local-name: or_urdf
     uri: https://github.com/personalrobotics/or_urdf.git
 - git:
-    local-name: pr_ordata
-    uri: https://github.com/personalrobotics/pr_ordata.git
+    local-name: pr_assets
+    uri: https://github.com/personalrobotics/pr_assets.git
 - git:
     local-name: pr_control_msgs
     uri: https://github.com/personalrobotics/pr_control_msgs.git

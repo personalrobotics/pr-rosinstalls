@@ -6,7 +6,7 @@
 - git: {local-name: ada, uri: 'https://github.com/personalrobotics/ada.git', version: 'jaco'}
 - git: {local-name: or_trac_ik, uri: 'https://github.com/personalrobotics/or_trac_ik.git'}
 - git: {local-name: or_urdf, uri: 'https://github.com/personalrobotics/or_urdf.git'}
-- git: {local-name: pr_ordata, uri: 'https://github.com/personalrobotics/pr_ordata.git'}
+- git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git'}
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git'}
 - git: {local-name: or_parabolicsmoother, uri: 'https://github.com/personalrobotics/or_parabolicsmoother.git'}
 - git: {local-name: mico_hardware, uri: 'https://github.com/personalrobotics/mico_hardware.git', version: 'jaco'}
