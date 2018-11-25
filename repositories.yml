@@ -124,6 +124,10 @@ repositories:
       url: https://github.com/personalrobotics/aikido.git
       packages:
         - aikido
+  aikido_planner_demos
+    source:
+      type: git
+      url: https://github.com/personalrobotics/aikido_planner_demos.git
 
   # Python bindings:
   boost_numpy:
