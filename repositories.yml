@@ -254,9 +254,9 @@ repositories:
       
   # @adityavk's research repositories
   generalized_lazy_search:
-  source:
-    type: git
-    url: https://github.com/personalrobotics/generalized_lazy_search.git
+    source:
+      type: git
+      url: https://github.com/personalrobotics/generalized_lazy_search.git
 
   # Table clearing
   table_clearing:
