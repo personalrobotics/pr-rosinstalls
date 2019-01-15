@@ -1,0 +1,16 @@
+- git: {local-name: ada_demos, uri: 'git@github.com:personalrobotics/ada_demos.git'}
+- git: {local-name: libada, uri: 'git@github.com:personalrobotics/libada.git'}
+- git: {local-name: aikido, uri: 'git@github.com:personalrobotics/aikido.git'}
+- git: {local-name: ada_description, uri: 'git@github.com:personalrobotics/ada_description.git'}
+- git: {local-name: pr_assets, uri: 'git@github.com:personalrobotics/pr_assets.git'}
+- git: {local-name: pr_tsr, uri: 'git@github.com:personalrobotics/pr_tsr.git'}
+- git: {local-name: rewd_controllers, uri: 'git@github.com:personalrobotics/rewd_controllers.git'}
+- git: {local-name: ada_launch, uri: 'git@github.com:personalrobotics/ada_launch.git'}
+- git: {local-name: deep_pose_estimators, uri: 'git@github.com:personalrobotics/deep_pose_estimators.git'}
+- git: {local-name: forque_sensor_hardware, uri: 'git@github.com:personalrobotics/forque_sensor_hardware.git'}
+- git: {local-name: jaco_hardware, uri: 'git@github.com:personalrobotics/jaco_hardware.git'}
+- git: {local-name: net-ft-ros, uri: 'git@github.com:personalrobotics/net-ft-ros.git'}
+- git: {local-name: face_detection, uri: 'git@github.com:personalrobotics/face_detection.git'}
+- git: {local-name: pr_hardware_interfaces, uri: 'git@github.com:personalrobotics/pr_hardware_interfaces.git'}
+- git: {local-name: pr_control_msgs, uri: 'git@github.com:personalrobotics/pr_control_msgs.git'}
+- git: {local-name: pr_ros_controllers, uri: 'git@github.com:personalrobotics/pr_ros_controllers.git'}
