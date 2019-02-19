@@ -1,0 +1,15 @@
+- git:
+    local-name: ackermann_cmd_mux
+    uri: https://github.com/personalrobotics/ackermann_cmd_mux.git
+- git:
+    local-name: racecar_control_msgs
+    uri: https://github.com/personalrobotics/racecar_control_msgs.git
+- git:
+    local-name: racecar_description
+    uri: https://github.com/personalrobotics/racecar_description.git
+- git:
+    local-name: racecar_launch
+    uri: https://github.com/personalrobotics/racecar_launch.git
+- git:
+    local-name: vesc
+    uri: https://github.com/personalrobotics/vesc.git
