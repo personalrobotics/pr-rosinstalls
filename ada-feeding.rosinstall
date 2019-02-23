@@ -6,7 +6,7 @@
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git'}
 - git: {local-name: rewd_controllers, uri: 'https://github.com/personalrobotics/rewd_controllers.git'}
 - git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git'}
-- git: {local-name: deep_pose_estimators, uri: 'https://github.com/personalrobotics/deep_pose_estimators.git'}
+- git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git'}
 - git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git'}
 - git: {local-name: forque_sensor_hardware, uri: 'https://github.com/personalrobotics/forque_sensor_hardware.git'}
 - git: {local-name: jaco_hardware, uri: 'https://github.com/personalrobotics/jaco_hardware.git'}
