@@ -27,6 +27,8 @@ newmat:
   ubuntu: [libnewmat10-dev]
 nlopt: # Override; ros-indigo-nlopt is too old for DART.
   ubuntu: [libnlopt-dev]
+ompl: # Override; ros-kinetic-ompl is too new for Aikido.
+  ubuntu: [libompl-dev]
 openrave:
   ubuntu: [pr-openrave]
 libopenthreads:
