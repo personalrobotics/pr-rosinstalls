@@ -1,11 +1,11 @@
 - git: {local-name: ada_demos, uri: 'https://github.com/personalrobotics/ada_demos.git'}
-- git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git'}
-- git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git'}
-- git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git'}
-- git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git'}
-- git: {local-name: rewd_controllers, uri: 'https://github.com/personalrobotics/rewd_controllers.git'}
 - git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git'}
+- git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git'}
+- git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git'}
 - git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git'}
+- git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git'}
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git'}
+- git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git'}
+- git: {local-name: rewd_controllers, uri: 'https://github.com/personalrobotics/rewd_controllers.git'}
