@@ -2,6 +2,7 @@
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git'}
 - git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git'}
+- git: {local-name: bite_selection_package, uri: 'https://github.com/personalrobotics/bite_selection_package.git'}
 - git: {local-name: face_detection, uri: 'https://github.com/personalrobotics/face_detection.git'}
 - git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git'}
 - git: {local-name: forque_sensor_hardware, uri: 'https://github.com/personalrobotics/forque_sensor_hardware.git'}
@@ -14,4 +15,5 @@
 - git: {local-name: pr_hardware_interfaces, uri: 'https://github.com/personalrobotics/pr_hardware_interfaces.git'}
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git'}
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git'}
+- git: {local-name: pytorch_retinanet, uri: 'https://github.com/personalrobotics/pytorch_retinanet.git'}
 - git: {local-name: rewd_controllers, uri: 'https://github.com/personalrobotics/rewd_controllers.git'}
