@@ -53,7 +53,8 @@ repositories:
       type: git
       url: https://github.com/personalrobotics/schunk_neck.git
       packages:
-        - schunk_neck
+        - schunk_pw70_can
+        - schunk_pw70_ros
   pr_assets:
     source:
       type: git
