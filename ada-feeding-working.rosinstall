@@ -1,6 +1,6 @@
 - git: {local-name: ada_demos, uri: 'https://github.com/personalrobotics/ada_demos.git', version: 'demo/summer2019'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git', version: 'master'}
-- git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git', version: 'demo/summer2019'}
+- git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git', version: 'master'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git', version: 'egordon/so2_spline'}
 - git: {local-name: bite_selection_package, uri: 'https://github.com/personalrobotics/bite_selection_package.git', version: 'demo/summer2019'}
 - git: {local-name: face_detection, uri: 'https://github.com/personalrobotics/face_detection.git', version: 'master'}
