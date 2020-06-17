@@ -6,7 +6,4 @@
 - git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git', version: 'master'}
 - git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git', version: 'demo/summer2019'}
 - git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git', version: 'master'}
-- git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git', version: 'master'}
-- git: {local-name: pr_hardware_interfaces, uri: 'https://github.com/personalrobotics/pr_hardware_interfaces.git', version: 'master'}
-- git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git', version: 'master'}
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git', version: 'master'}
