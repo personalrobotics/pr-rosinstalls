@@ -13,7 +13,6 @@
 - git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git', version: 'master'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git', version: 'master'}
 - git: {local-name: pr_hardware_interfaces, uri: 'https://github.com/personalrobotics/pr_hardware_interfaces.git', version: 'master'}
-- git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git', version: 'master'}
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git', version: 'master'}
 - git: {local-name: pytorch_retinanet, uri: 'https://github.com/personalrobotics/pytorch_retinanet.git', version: 'master'}
 - git: {local-name: rewd_controllers, uri: 'https://github.com/personalrobotics/rewd_controllers.git', version: 'ada_demo/summer2019'}
