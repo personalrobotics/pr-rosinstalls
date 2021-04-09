@@ -3,23 +3,23 @@ repositories:
   magi:
     source:
       type: git
-      url: https://github.com/personalrobotics/magi.git
+      url: https://github.com/personalrobotics/magi
       packages:
         - magi
   prpy:
     source:
       type: git
-      url: https://github.com/personalrobotics/prpy.git
+      url: https://github.com/personalrobotics/prpy
   ros_control_client:
     source:
       type: git
-      url: https://github.com/personalrobotics/ros_control_client.git
+      url: https://github.com/personalrobotics/ros_control_client
       packages:
         - ros_control_client_py
   pr_ros_controllers:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr_ros_controllers.git
+      url: https://github.com/personalrobotics/pr_ros_controllers
       packages:
         - position_command_controller
         - pr_ros_controllers
@@ -27,56 +27,56 @@ repositories:
   pr_hardware_interfaces:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr_hardware_interfaces.git
+      url: https://github.com/personalrobotics/pr_hardware_interfaces
       packages:
         - pr_hardware_interfaces
   pr_control_msgs:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr_control_msgs.git
+      url: https://github.com/personalrobotics/pr_control_msgs
       packages:
         - pr_control_msgs
   rewd_controllers:
     source:
       type: git
-      url: https://github.com/personalrobotics/rewd_controllers.git
+      url: https://github.com/personalrobotics/rewd_controllers
       packages:
         - rewd_controllers
   talker:
     source:
       type: git
-      url: https://github.com/personalrobotics/talker.git
+      url: https://github.com/personalrobotics/talker
       packages:
         - talker
   schunk_neck:
     source:
       type: git
-      url: https://github.com/personalrobotics/schunk_neck.git
+      url: https://github.com/personalrobotics/schunk_neck
       packages:
         - schunk_pw70_can
         - schunk_pw70_ros
   pr_assets:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr_assets.git
+      url: https://github.com/personalrobotics/pr_assets
   pr_tsr:
     source:
       type: git
-      url: https://github.com/personalrobotics/pr_tsr.git
+      url: https://github.com/personalrobotics/pr_tsr
   kinbody_detector:
     source:
       type: git
-      url: https://github.com/personalrobotics/kinbody_detector.git
+      url: https://github.com/personalrobotics/kinbody_detector
   tsr:
     source:
       type: git
-      url: https://github.com/personalrobotics/tsr.git
+      url: https://github.com/personalrobotics/tsr
 
   # OpenRAVE plugin repositories:
   comps:
     source:
       type: git
-      url: https://github.com/personalrobotics/comps.git
+      url: https://github.com/personalrobotics/comps
       packages:
         - cbirrt2
         - generalik
@@ -84,107 +84,107 @@ repositories:
   openrave_catkin:
     source:
       type: git
-      url: https://github.com/personalrobotics/openrave_catkin.git
+      url: https://github.com/personalrobotics/openrave_catkin
   or_cdchomp:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_cdchomp.git
+      url: https://github.com/personalrobotics/or_cdchomp
   or_fcl:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_fcl.git
+      url: https://github.com/personalrobotics/or_fcl
   or_ompl:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_ompl.git
+      url: https://github.com/personalrobotics/or_ompl
   or_parabolicsmoother:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_parabolicsmoother.git
+      url: https://github.com/personalrobotics/or_parabolicsmoother
   or_rviz:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_rviz.git
+      url: https://github.com/personalrobotics/or_rviz
   or_sbpl:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_sbpl.git
+      url: https://github.com/personalrobotics/or_sbpl
   or_trajopt:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_trajopt.git
+      url: https://github.com/personalrobotics/or_trajopt
   or_urdf:
     source:
       type: git
-      url: https://github.com/personalrobotics/or_urdf.git
+      url: https://github.com/personalrobotics/or_urdf
 
   # AIKIDO
   aikido:
     source:
       type: git
-      url: https://github.com/personalrobotics/aikido.git
+      url: https://github.com/personalrobotics/aikido
       packages:
         - aikido
   aikido_planner_demos:
     source:
       type: git
-      url: https://github.com/personalrobotics/aikido_planner_demos.git
+      url: https://github.com/personalrobotics/aikido_planner_demos
 
   # Python bindings:
   boost_numpy:
     source:
       type: git
-      url: https://github.com/personalrobotics/Boost.NumPy.git
+      url: https://github.com/personalrobotics/Boost.NumPy
   boost_numpy_eigen:
     source:
       type: git
-      url: https://github.com/personalrobotics/Boost.NumPy_Eigen.git
+      url: https://github.com/personalrobotics/Boost.NumPy_Eigen
 
   # HERB repositories:
   herbpy:
     source:
       type: git
-      url: https://github.com/personalrobotics/herbpy.git
+      url: https://github.com/personalrobotics/herbpy
   herb_description:
     source:
       type: git
-      url: https://github.com/personalrobotics/herb_description.git
+      url: https://github.com/personalrobotics/herb_description
   libherb:
     source:
       type: git
-      url: https://github.com/personalrobotics/libherb.git
+      url: https://github.com/personalrobotics/libherb
       packages:
         - libherb
   herb3_demos:
     source:
       type: git
-      url: https://github.com/personalrobotics/herb3_demos.git
+      url: https://github.com/personalrobotics/herb3_demos
 
   # ADA repositories
   ada_description:
     source:
       type: git
-      url: https://github.com/personalrobotics/ada_description.git
+      url: https://github.com/personalrobotics/ada_description
   libada:
     source:
       type: git
-      url: https://github.com/personalrobotics/libada.git
+      url: https://github.com/personalrobotics/libada
       packages:
         - libada
   ada_demos:
     source:
       type: git
-      url: https://github.com/personalrobotics/ada_demos.git
+      url: https://github.com/personalrobotics/ada_demos
 
   # HEBI repositories
   hebi_description:
     source:
       type: git
-      url: https://github.com/personalrobotics/hebi_description.git
+      url: https://github.com/personalrobotics/hebi_description
   libhebi:
     source:
       type: git
-      url: https://github.com/personalrobotics/libhebi.git
+      url: https://github.com/personalrobotics/libhebi
       packages:
         - libhebi
 
@@ -192,7 +192,7 @@ repositories:
   libroman:
     source:
       type: git
-      url: https://github.com/personalrobotics/libroman.git
+      url: https://github.com/personalrobotics/libroman
       packages:
         - libroman
 
@@ -200,27 +200,27 @@ repositories:
   racecar_description:
     source:
       type: git
-      url: https://github.com/personalrobotics/racecar_description.git
+      url: https://github.com/personalrobotics/racecar_description
   libracecar:
     source:
       type: git
-      url: https://github.com/personalrobotics/libracecar.git
+      url: https://github.com/personalrobotics/libracecar
       packages:
         - libracecar
   racecar_examples:
     source:
       type: git
-      url: https://github.com/personalrobotics/racecar_examples.git
+      url: https://github.com/personalrobotics/racecar_examples
   racecar_demos:
     source:
       type: git
-      url: https://github.com/personalrobotics/racecar_demos.git
+      url: https://github.com/personalrobotics/racecar_demos
 
   # @jeking04's research repositories:
   randomized_rearrangement_planning:
     source:
       type: git
-      url: https://github.com/personalrobotics/randomized_rearrangement_planning.git
+      url: https://github.com/personalrobotics/randomized_rearrangement_planning
       packages:
         - belief_push_planner
     #  - box2d_pushing
@@ -239,15 +239,15 @@ repositories:
   appl:
     source:
       type: git
-      url: https://github.com/personalrobotics/appl.git
+      url: https://github.com/personalrobotics/appl
   despot:
     source:
       type: git
-      url: https://github.com/personalrobotics/despot.git
+      url: https://github.com/personalrobotics/despot
   kenv:
     source:
       type: git
-      url: https://github.com/personalrobotics/kenv.git
+      url: https://github.com/personalrobotics/kenv
       packages:
         - box2d_kenv
         - gazebo_quasistatic_plugin
@@ -259,16 +259,16 @@ repositories:
   muul:
     source:
       type: git
-      url: https://github.com/personalrobotics/muul.git
+      url: https://github.com/personalrobotics/muul
       
   # @adityavk's research repositories
   gls:
     source:
       type: git
-      url: https://github.com/personalrobotics/gls.git
+      url: https://github.com/personalrobotics/gls
 
   # Table clearing
   table_clearing:
     source:
       type: git
-      url: https://github.com/personalrobotics/table_clearing.git
+      url: https://github.com/personalrobotics/table_clearing
