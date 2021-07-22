@@ -1,4 +1,4 @@
-- git: {local-name: ada_demos, uri: 'https://github.com/personalrobotics/ada_demos.git', version: 'master'}
+- git: {local-name: ada_feeding, uri: 'https://github.com/personalrobotics/ada_feeding.git', version: 'master'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git', version: 'master'}
 - git: {local-name: ada_launch, uri: 'https://github.com/personalrobotics/ada_launch.git', version: 'master'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git', version: 'master'}
