@@ -1,9 +1,9 @@
-- git: {local-name: ada_demos, uri: 'https://github.com/personalrobotics/ada_demos.git', version: 'master'}
+- git: {local-name: ada_feeding, uri: 'https://github.com/personalrobotics/ada_feeding.git', version: 'main'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git', version: 'master'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git', version: 'master'}
-- git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git', version: 'demo/summer2019'}
+- git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git', version: 'master'}
 - git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git', version: 'master'}
-- git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git', version: 'demo/summer2019'}
+- git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git', version: 'master'}
 - git: {local-name: pr_assets, uri: 'https://github.com/personalrobotics/pr_assets.git', version: 'master'}
 - git: {local-name: pr_control_msgs, uri: 'https://github.com/personalrobotics/pr_control_msgs.git', version: 'master'}
 - git: {local-name: pr_tsr, uri: 'https://github.com/personalrobotics/pr_tsr.git', version: 'master'}
