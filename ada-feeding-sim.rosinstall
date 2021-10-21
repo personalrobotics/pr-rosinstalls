@@ -1,6 +1,5 @@
 - git: {local-name: ada_feeding, uri: 'https://github.com/personalrobotics/ada_feeding.git', version: 'main'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git', version: 'master'}
-- git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git', version: 'master'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git', version: 'master'}
 - git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git', version: 'master'}
 - git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git', version: 'master'}
