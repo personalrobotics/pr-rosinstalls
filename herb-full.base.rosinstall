@@ -1,8 +1,0 @@
-# NOTE: these packages must be built in a "merged" devel workspace
-#       you can set this with the `catkin config --merge-devel` command and a clean rebuild
-- git: {local-name: cob_common, uri: 'https://github.com/personalrobotics/cob_common.git'}
-- git: {local-name: cob_driver, uri: 'https://github.com/personalrobotics/cob_driver.git'}
-- git: {local-name: neo_control, uri: 'https://github.com/personalrobotics/neo_control.git'}
-- git: {local-name: neo_driver, uri: 'https://github.com/personalrobotics/neo_driver.git'}
-- git: {local-name: neo_robot_descriptions, uri: 'https://github.com/personalrobotics/neo_robot_descriptions.git'}
-
