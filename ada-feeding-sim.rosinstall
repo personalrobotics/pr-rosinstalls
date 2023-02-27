@@ -1,6 +1,7 @@
 - git: {local-name: ada_feeding, uri: 'https://github.com/personalrobotics/ada_feeding.git', version: 'main'}
 - git: {local-name: ada_description, uri: 'https://github.com/personalrobotics/ada_description.git', version: 'master'}
 - git: {local-name: aikido, uri: 'https://github.com/personalrobotics/aikido.git', version: 'master'}
+- git: {local-name: BehaviorTree.CPP, uri: 'https://github.com/BehaviorTree/BehaviorTree.CPP', version: 'master'}
 - git: {local-name: food_detector, uri: 'https://github.com/personalrobotics/food_detector.git', version: 'master'}
 - git: {local-name: libada, uri: 'https://github.com/personalrobotics/libada.git', version: 'master'}
 - git: {local-name: pose_estimators, uri: 'https://github.com/personalrobotics/pose_estimators.git', version: 'master'}
