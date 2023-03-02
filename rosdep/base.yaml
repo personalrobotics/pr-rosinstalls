@@ -8,7 +8,7 @@ clang-format-3.8:
   osx:
     homebrew: [clang-format@3.8]
 dartsim:
-  ubuntu: [libdart6-all-dev]
+  ubuntu: [libdart-all-dev]
   osx:
     homebrew: [dartsim]
 debsums: # Required by NASA packages.
