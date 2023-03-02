@@ -11,6 +11,8 @@ dartsim:
   ubuntu: [libdart-all-dev]
   osx:
     homebrew: [dartsim]
+dartsim_ikfast:
+  ubuntu: [libdart-external-ikfast-dev]
 debsums: # Required by NASA packages.
   ubuntu: [debsums]
 libconfig++: # Required by libbarrett
