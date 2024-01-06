@@ -1,0 +1,2 @@
+# Geodude Hardware, Description, and MoveIt
+- git: {local-name: geodude_ros2, uri: 'git@github.com:personalrobotics/geodude_ros2.git', version: 'main'}
