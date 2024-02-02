@@ -4,6 +4,9 @@
 # ADA Hardware, Description, and MoveIt
 - git: {local-name: ada_ros2, uri: 'https://github.com/personalrobotics/ada_ros2.git', version: 'main'}
 
+# Cartesian Controllers
+- git: {local-name: cartesian_controllers, uri: 'https://github.com/personalrobotics/cartesian_controllers.git', version: 'egordon/twist'}
+
 # Feeding Web App
 - git: {local-name: feeding_web_interface, uri: 'https://github.com/personalrobotics/feeding_web_interface.git', version: 'main'}
 
@@ -17,7 +20,7 @@
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git', version: 'main'}
 
 # MoveIt ROS Interface rospy client
-- git: {local-name: pymoveit2, uri: 'https://github.com/personalrobotics/pymoveit2.git', version: 'amaln/attached_collision_primitive'}
+- git: {local-name: pymoveit2, uri: 'https://github.com/personalrobotics/pymoveit2.git', version: 'amaln/scale_collision_meshes'}
 
 # py_trees behaviors for ROS
 - git: {local-name: py_trees_ros, uri: 'https://github.com/personalrobotics/py_trees_ros.git', version: 'amaln/service_client'}
