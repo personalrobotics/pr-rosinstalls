@@ -4,6 +4,9 @@
 # ADA Hardware, Description, and MoveIt
 - git: {local-name: ada_ros2, uri: 'https://github.com/personalrobotics/ada_ros2.git', version: 'main'}
 
+# Cartesian Controllers
+- git: {local-name: cartesian_controllers, uri: 'https://github.com/personalrobotics/cartesian_controllers.git', version: 'egordon/twist'}
+
 # Feeding Web App
 - git: {local-name: feeding_web_interface, uri: 'https://github.com/personalrobotics/feeding_web_interface.git', version: 'main'}
 
