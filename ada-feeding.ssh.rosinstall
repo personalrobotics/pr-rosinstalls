@@ -31,4 +31,3 @@
 
 # Connecting the Feeding Web App to ROS
 - git: {local-name: rosbridge_suite, uri: 'git@github.com:personalrobotics/rosbridge_suite.git', version: 'act2'}
-- git: {local-name: web_video_server, uri: 'git@github.com:RobotWebTools/web_video_server.git', version: 'ros2'}
