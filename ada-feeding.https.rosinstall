@@ -16,6 +16,9 @@
 # MoveIt2 moveit_servo fork
 - git: {local-name: moveit2, uri: 'https://github.com/personalrobotics/moveit2.git', version: 'amaln/main'}
 
+# Pick IK fork for MoveIt (Servo)
+- git: {local-name: pick_ik, uri: 'https://github.com/personalrobotics/pick_ik.git', version: 'amaln/tip_frames_fix'}
+
 # Force Gate and other Custom Controllers
 - git: {local-name: pr_ros_controllers, uri: 'https://github.com/personalrobotics/pr_ros_controllers.git', version: 'main'}
 
