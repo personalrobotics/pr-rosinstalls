@@ -1,2 +1,12 @@
-# Geodude Hardware, Description, and MoveIt
-- git: {local-name: geodude_ros2, uri: 'https://github.com/personalrobotics/geodude_ros2.git', version: 'main'}
+# TL;DR: Always clone libbarrett with https in the /opt directory
+
+# Libbarrett is a controls library written in C++ that runs Barrett Technology products (WAM and BarrettHand)
+# The version of libbarrett we currently use works with a non-realtime (low-latency Ubuntu 22.04) kernel
+# and should only be used when a hard real-time guarantee is not critical for your application.
+
+# Since we use a shared copy of libbarrett in the /opt directory of our control computer, git clone
+# does not work without sudo. As a result, using sudo interferes with an SSH clone because the SSH
+# key is not bound to the user cloning it.
+
+- git: {local-name: libbarrett, uri: 'https://github.com/personalrobotics/libbarrett.git', version: 'jammy-devel'}
+
